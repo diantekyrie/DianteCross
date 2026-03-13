@@ -1,0 +1,38 @@
+[
+  {
+      "grouping":"Core Competencies",
+      "skills":[
+        "Test Automation",
+        "CI/CD Integration",
+        "Mobile Testing (iOS/Android)",
+        "API Testing",
+        "Performance Testing",
+        "Agile/Scrum",
+        "SDET Practices",
+        "Test Strategy & Planning",
+        "Regression Testing",
+        "E2E Testing",
+        "Shift-Left Testing"
+      ]
+  },
+  {
+      "grouping":"Technical Skills",
+      "skills":[
+        "Python",
+        "Selenium WebDriver",
+        "Pytest",
+        "Appium",
+        "XCUITest",
+        "REST API Testing",
+        "Postman",
+        "Jenkins",
+        "GitHub Actions",
+        "SQL",
+        "Bash",
+        "JIRA",
+        "TestRail",
+        "Charles Proxy",
+        "HP LoadRunner"
+      ]
+  }
+]

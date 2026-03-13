@@ -1,0 +1,15 @@
+[
+    {
+        "school":"Arizona State University",
+        "degree":"Bachelor of Science",
+        "major":"Information Technology",
+        "notes":"In progress | GPA: 4.0 | Relevant Coursework: Active Directory, PowerShell, Systems Administration, Network Security",
+        "range":"In progress"
+    },
+    {
+        "school":"City College of San Francisco",
+        "degree":"Associate of Science",
+        "major":"Computer Networking & Information Technology",
+        "range":"2021"
+    }
+]

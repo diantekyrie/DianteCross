@@ -1,0 +1,56 @@
+[
+    {
+        "role":"Senior Software QA Engineer",
+        "company":"Google (via TechMahindra) | Mountain View, CA",
+        "summary":"Architected and implemented a Python-based test automation framework in Linux, integrated with Jenkins CI/CD to automate 200+ regression test cases, improving QA efficiency by 30%.\nDeveloped an API test suite using Python and REST protocols achieving 95% endpoint coverage and finding 60+ critical bugs pre-production.\nLed Android mobile QA (E2E, functional, UI, regression, smoke) using ADB for log analysis and root-cause diagnostics.\nIntegrated shift-left testing into CI/CD, reducing defect escape rate by 40%.",
+        "range":"May 2022 - Present"
+    },
+    {
+        "role":"iOS QA Engineer",
+        "company":"Gap (via Ingrain) | San Francisco, CA",
+        "summary":"Developed and executed test strategies across core iOS products across devices, iOS versions, and use cases.\nOptimized QA processes integrated with CI/CD workflows to scale testing efforts across product lines.\nPartnered with engineering and infrastructure teams on automation to prevent regressions pre-release.",
+        "range":"May 2021 - April 2022"
+    },
+    {
+        "role":"QA Tester",
+        "company":"Bank of America (via TekSystems) | San Francisco, CA",
+        "summary":"Created, maintained, and executed test scripts for manual and automated testing, reducing regression testing time by 50%.\nManaged day-to-day testing for multiple mobile releases in a regulated environment and drove successful launches.",
+        "range":"Oct 2020 - Feb 2021"
+    },
+    {
+        "role":"QA Tester III",
+        "company":"Google (via Signature Consulting) | Mountain View, CA",
+        "summary":"Built E2E test plans and cases for core AMP components, ensuring cross-browser and cross-platform compatibility.\nAuthored detailed bug reports in GitHub with clear repro steps to accelerate resolutions.",
+        "range":"Mar 2019 - Feb 2020"
+    },
+    {
+        "role":"QA Engineer",
+        "company":"Apple | Cupertino, CA",
+        "summary":"Reduced application load times by 10% via performance testing and optimization using Charles Proxy and internal tools.\nTested Siri voice recognition across iOS, watchOS, tvOS, and CarPlay; automated tasks using Python and Ruby.",
+        "range":"May 2018 - Feb 2019"
+    },
+    {
+        "role":"QA Engineer",
+        "company":"Hulu (via TekSystems) | Novato, CA",
+        "summary":"Designed and maintained API test suites for 100+ RESTful endpoints across console, mobile, and API environments.\nSupported CI/CD via Jenkins and defect tracking via JIRA in Agile workflows.",
+        "range":"Oct 2017 - May 2018"
+    },
+    {
+        "role":"Mobile QA Tester",
+        "company":"Samsung | Mountain View, CA",
+        "summary":"Created test cases for voice applications across flagship devices; automated in-house website testing using Selenium WebDriver.\nOwned bug lifecycle with ADB-based diagnostics and verification.",
+        "range":"May 2017 - Oct 2017"
+    },
+    {
+        "role":"QA Analyst",
+        "company":"Meta | Menlo Park, CA",
+        "summary":"Executed black-box QA for AR/VR demos and built QA validation plans for Mobile VR releases, including BVT and UAT.\nProduced weekly build status reporting and managed bug lifecycle communication.",
+        "range":"May 2016 - May 2017"
+    },
+    {
+        "role":"QA Lead",
+        "company":"Avid Technology | Mountain View, CA",
+        "summary":"Led end-to-end QA lifecycle: test planning, execution, defect logging, verification, and process improvements.\nBuilt automated backend data processes using Salesforce APEX and implemented automated testing with Selenium and QTP.",
+        "range":"May 2013 - Jan 2016"
+    }
+]
