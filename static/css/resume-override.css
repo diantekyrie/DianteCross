@@ -1,0 +1,22 @@
+.skills-list {
+  margin: 0;
+  padding: 0;
+}
+
+.skill-badge {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  color: inherit;
+  font-weight: 500;
+  padding: 0.45rem 0.75rem;
+  margin: 0.2rem 0.3rem 0.2rem 0;
+}
+
+.skill-badge a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.skill-badge i {
+  margin-right: 0.4rem;
+}
